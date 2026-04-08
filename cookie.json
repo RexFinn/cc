@@ -1,0 +1,30 @@
+{
+	"go.apipost.cn": [
+		{
+			"key": "liveCookie",
+			"value": "gin",
+			"maxAge": 120,
+			"domain": "go.apipost.cn",
+			"path": "/",
+			"secure": true,
+			"httpOnly": true,
+			"creation": "2026-04-08T09:18:13.861Z",
+			"name": "liveCookie",
+			"cookie_id": "f403820feb03c",
+			"expires": "Wed, 08 Apr 2026 09:20:13 GMT"
+		},
+		{
+			"key": "loseCookie",
+			"value": "gin",
+			"maxAge": 0,
+			"domain": "go.apipost.cn",
+			"path": "/",
+			"secure": true,
+			"httpOnly": true,
+			"creation": "2026-04-08T09:18:13.861Z",
+			"name": "loseCookie",
+			"cookie_id": "f403820feb03d",
+			"expires": "Wed, 08 Apr 2026 09:18:13 GMT"
+		}
+	]
+}
